@@ -7,5 +7,3 @@ public class Hello {
         System.out.println("Some message");
         // hhioio
     }
-
-}
